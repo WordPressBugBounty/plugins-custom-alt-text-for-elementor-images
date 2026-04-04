@@ -1,0 +1,1 @@
+# plugins-custom-alt-text-for-elementor-images
